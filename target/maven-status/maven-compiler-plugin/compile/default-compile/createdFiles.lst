@@ -1,0 +1,9 @@
+com/example/todolist/model/User.class
+com/example/todolist/controller/HomeController.class
+com/example/todolist/config/DataInitializer.class
+com/example/todolist/repository/UserRepository.class
+com/example/todolist/model/Task.class
+com/example/todolist/controller/TaskController.class
+com/example/todolist/repository/TaskRepository.class
+com/example/todolist/controller/UserController.class
+com/example/todolist/TodoListApplication.class
